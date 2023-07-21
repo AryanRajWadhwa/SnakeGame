@@ -1,4 +1,7 @@
 # SnakeGame
+
+[Try it](https://snake-game-aryanwadhwa.vercel.app/)
+
 Introduction:
 
 The "Snake Game " is a classic and entertaining web-based project that recreates the iconic Snake game, which gained immense popularity on early mobile phones and gaming consoles. Developed using the JavaScript programming language, this project allows users to control a snake on the screen, guiding it to eat food and grow in length while avoiding collisions with its own tail or the game's boundaries.
